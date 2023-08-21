@@ -32,5 +32,57 @@
         "password": "passowrd@123",
         "id": 2
       }
+    ],
+    "notes":[
+      {
+        "title": "First Note",
+        "content": "This is the content of the first note.",
+        "id": 1
+      },
+      {
+        "title": "Important Reminder",
+        "content": "Don't forget to complete the task by tomorrow.",
+        "id": 2
+      },
+      {
+        "title": "Meeting Notes",
+        "content": "Discussed project updates and upcoming milestones.",
+        "id": 3
+      },
+      {
+        "title": "Shopping List",
+        "content": "Milk, eggs, bread, and vegetables.",
+        "id": 4
+      },
+      {
+        "title": "Ideas for Blog",
+        "content": "Write about travel tips, productivity hacks, and book recommendations.",
+        "id": 5
+      },
+      {
+        "title": "Code Snippets",
+        "content": "Sample code for authentication and API integration.",
+        "id": 6
+      },
+      {
+        "title": "Personal Goals",
+        "content": "Exercise more, read two books per month, learn a new skill.",
+        "id": 7
+      },
+      {
+        "title": "Recipe Collection",
+        "content": "Pasta Carbonara, Chocolate Cake, Avocado Toast.",
+        "id": 8
+      },
+      {
+        "title": "Travel Itinerary",
+        "content": "Flight details, hotel reservations, places to visit.",
+        "id": 9
+      },
+      {
+        "title": "Project To-Do List",
+        "content": "Plan, design, develop, test, deploy.",
+        "id": 10
+      }
     ]
   }
